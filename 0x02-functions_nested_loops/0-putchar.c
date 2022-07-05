@@ -16,6 +16,4 @@ void putcharfunction(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
-	return;
 }

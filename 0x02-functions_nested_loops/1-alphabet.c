@@ -2,7 +2,7 @@
 
 /**
  * main - main
- *
+ * Description: 'the program's description
  * Return: nothing
  */
 void print_alphabet(void)
@@ -14,6 +14,4 @@ void print_alphabet(void)
 		_putchar(i);
 	}
 	_putchar('\n');
-
-	return;
 }
