@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - The 0-putchar.c file set up
+ * putcharfunction - The 0-putchar.c file set up
  *
  * Return: 0
  */
