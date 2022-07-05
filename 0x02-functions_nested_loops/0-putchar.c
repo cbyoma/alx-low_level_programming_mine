@@ -1,21 +1,21 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * main - headers goes there
+ * main - The 0-putchar.c file set up
  *
- * Return: 0 betty style doc for function main goes there
+ * Return: 0
  */
-
-int main(void)
+void putcharfunction(void)
 {
-	char i[] = "_putchar";
-	int a;
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
-	for (a = 0; a < 8; a++)
-	{
-		putchar(i[a]);
-	}
-	putchar('\n');
-	return (0);
+	return;
 }
