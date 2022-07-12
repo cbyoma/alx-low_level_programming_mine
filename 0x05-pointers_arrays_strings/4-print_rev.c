@@ -1,11 +1,9 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * print_rev - This loop will be caaled by the main loop
- * @s: This ia a pointer
+ * print_rev - prints a string, followed by a new line.
  *
- * Return: Nothing
+ * @s: input string to print.
  */
 
 void print_rev(char *s)
