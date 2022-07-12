@@ -11,7 +11,7 @@ int main(void)
 {
 	char *str;
 
-	str = "Holberton!";
+	str = "0123456789";
 	puts_half(str);
 
 	return (0);
